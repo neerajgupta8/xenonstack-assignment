@@ -1,7 +1,7 @@
 ## Frontend Code is present in main branch.
 ## Backend Code is present in master branch.
 
-###### Screenshots for the assignment-
+## Screenshots for the assignment-
 
 1) Signup Page - 
 
